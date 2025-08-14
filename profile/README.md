@@ -7,7 +7,7 @@ Welcome to the official GitHub organization of **naaltech** - the technology clu
 
 ### About Us
 
-We are a student-led technology club established in 2022, passionate about:
+We are a student-led technology club established in 2019, passionate about:
 - 💻 Software Development
 - 🤖 Robotics
 - 🔐 Cybersecurity
